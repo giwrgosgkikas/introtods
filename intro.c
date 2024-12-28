@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Collaborator: YOURNAME
+// Collaborator: GIWRGOS GKIKAS
 int main() {
     int num1, num2, sum;
 
